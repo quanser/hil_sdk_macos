@@ -1,6 +1,4 @@
-BSD 3-Clause License
-
-Copyright (c) 2021, Quanser Consulting Inc
+Copyright (c) 2021, Quanser Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
