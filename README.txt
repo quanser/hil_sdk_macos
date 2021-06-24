@@ -6,6 +6,7 @@ The Quanser HIL SDK for the macOS operating system running on a Macintosh platfo
 The Quanser HIL SDK for the macOS operating system running on Macintosh hardware provides access to the following devices:
 - Quanser QUBE Servo 2 - USB 
 - Quanser Q2-USB (normal mode only)
+- Quanser Q8-USB (normal mode only)
 - Quanser QArm
 
 To install the Quanser HIL SDK on macOS:
