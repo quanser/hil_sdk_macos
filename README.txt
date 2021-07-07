@@ -1,7 +1,7 @@
 Quanser HIL SDK 2021 (4.1.3390)
 -----------------------------------
 
-The Quanser HIL SDK for the macOS operating system running on a Macintosh platform. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
+The Quanser HIL SDK for the macOS operating system running on a Macintosh Intel platform. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards). It supports any macOS version from 10.12 (Sierra) onwards on an Intel CPU.
 
 The Quanser HIL SDK for the macOS operating system running on Macintosh hardware provides access to the following devices:
 - Quanser QUBE Servo 2 - USB 
