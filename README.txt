@@ -1,12 +1,14 @@
-Quanser HIL SDK 2021 (4.1.3580)
+Quanser HIL SDK 2023 (4.3.4140)
 -----------------------------------
 
-The Quanser HIL SDK for the macOS operating system running on a Macintosh Intel platform. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards). It supports any macOS version from 10.12 (Sierra) onwards on an Intel CPU.
+The Quanser HIL SDK for the MacOS operating system running on Mac hardware. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
 
-The Quanser HIL SDK for the macOS operating system running on Macintosh hardware provides access to the following devices:
-- Quanser QUBE Servo 2 - USB 
+The Quanser HIL SDK for the MacOS operating system running on Mac hardware provides access to the following devices:
+- Quanser Qube-Servo 3
+- Quanser QUBE Servo 2 - USB
 - Quanser Q2-USB (normal mode only)
 - Quanser Q8-USB (normal mode only)
+- Quanser AERO
 - Quanser QArm
 
 To install the Quanser HIL SDK on macOS:
@@ -14,8 +16,8 @@ To install the Quanser HIL SDK on macOS:
 - On the target system, uninstall previous versions of the Quanser HIL SDK on the target by running the following command:
     sudo uninstall_hil_sdk
 - On the target system, go to the directory where you copied the files and run the following commands:
-    chmod a+x setup uninstall_hil_sdk
-    sudo ./setup
+    chmod a+x setup_hil_sdk uninstall_hil_sdk
+    sudo ./setup_hil_sdk
 - Type "yes" (without quotes) in reponse to the license agreement prompt if you agree with the license.
 
 The Quanser HIL SDK examples on macOS can be found under /opt/quanser/hil_sdk/examples
@@ -32,4 +34,4 @@ To uninstall the Quanser HIL SDK on macOS, run the following command:
 THIS IS BETA SOFTWARE. IF YOU ARE USING THIS SOFTWARE, WE WOULD APPRECIATE ANY FEEDBACK.
 
 
-The full version of this product is 4.1.3580. The build date was 2021/10/14.
+The full version of this product is 4.3.4140. The build date was 2023/4/25.
