@@ -1,4 +1,4 @@
-Quanser HIL SDK 2024 (24.0.4492)
+Quanser HIL SDK 2024 SP1 (24.1.4682)
 -----------------------------------
 
 The Quanser HIL SDK for the MacOS operating system running on Mac hardware. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).  
@@ -35,4 +35,4 @@ To uninstall the Quanser HIL SDK on macOS, run the following command:
 THIS IS BETA SOFTWARE. IF YOU ARE USING THIS SOFTWARE, WE WOULD APPRECIATE ANY FEEDBACK.
 
 
-The full version of this product is 24.0.4492. The build date was 2024/4/10.
+The full version of this product is 24.1.4682. The build date was 2024/10/17.
